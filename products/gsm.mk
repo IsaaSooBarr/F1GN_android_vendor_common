@@ -1,12 +1,12 @@
 # GSM APN list
 PRODUCT_COPY_FILES += \
-    vendor/f1/proprietary/common/etc/apns-conf.xml:system/etc/apns-conf.xml
+    vendor/common/proprietary/common/etc/apns-conf.xml:system/etc/apns-conf.xml
 
 # GSM SPN overrides list
 PRODUCT_COPY_FILES += \
-    vendor/f1/proprietary/common/etc/spn-conf.xml:system/etc/spn-conf.xml
+    vendor/common/proprietary/common/etc/spn-conf.xml:system/etc/spn-conf.xml
 
 # SIM Toolkit
-#PRODUCT_PACKAGES += \
-#   Stk
+PRODUCT_PACKAGES += \
+   Stk
 

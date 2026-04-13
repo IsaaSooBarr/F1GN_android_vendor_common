@@ -1,5 +1,4 @@
-add_lunch_combo GalaxyS2-userdebug
-add_lunch_combo GalaxyS3-userdebug
-add_lunch_combo GalaxyS-userdebug
-add_lunch_combo ATTGalaxyS2-userdebug
-add_lunch_combo GalaxyNote-userdebug
+add_lunch_combo n7000-user
+add_lunch_combo n7000-userdebug
+add_lunch_combo i9100-user
+add_lunch_combo i9100-userdebug
